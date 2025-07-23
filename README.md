@@ -63,9 +63,10 @@ Soliton Technologies is a technology company specializing in Test & Measurement 
 * Key focus on core electronics, C fundamentals, microcontrollers, VLSI basics.
 * Debugging or scenario-based hardware/software questions.
 
+  The HR and technical interviews round were the same as the regular one. All questions were from the projects and resume content that I had put. The technical questions were focused on basic details and fundamental applications. While the HR round was just a formal talk, the HR was able to analyse my character from the questions she asked. And Soliton believes in analyzing you as a whole. As you move on to the next round, all your previous round results including programming rounds are all printed and documented and used in the final stages.
+
 **Note:** Evaluators had access to prior round performances including C code and test scores.
 
-The HR and technical interviews round were the same as the regular one. All questions were from the projects and resume content that I had put. The technical questions were focused on basic details and fundamental applications. While the HR round was just a formal talk, the HR was able to analyse my character from the questions she asked. And Soliton believes in analyzing you as a whole. As you move on to the next round, all your previous round results including programming rounds are all printed and documented and used in the final stages.
 ---
 
 ### **5. Round 2 - C Programming (Advanced)**
